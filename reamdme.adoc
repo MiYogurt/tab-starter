@@ -1,0 +1,33 @@
+= gulp with coffee pug sass
+
+**this is start template，use coffscript、pug、sass**
+
+这是一个开始模板，使用 coffscript、pug、sass
+
+== why use them
+
+Because they are based on indentation language
+
+因为它们都是基于缩进的语言
+
+== how to use
+
+[sorce,bash]
+```
+npm install
+npm run start
+```
+
+open `/views/index.html`
+
+== what is pug 
+
+https://pugjs.org/api/getting-started.html
+
+== what is coffeescript
+
+http://coffeescript.org/
+
+== what is sass
+
+http://sass-lang.com/guide
